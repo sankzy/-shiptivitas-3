@@ -1,0 +1,17 @@
+Idea 1: Automated Bottleneck Alerts
+
+Hypothesis: Managers spend too much time checking which cards are "stuck."
+Expected Impact: 15% increase in weekly efficiency and higher daily retention for managers.
+What the feature is: A visual indicator (like a small flame icon) that appears on a card if it has been in the "In Progress" swimlane for more than 48 hours without a status change.
+
+Idea 2: Mobile-First "Field Mode"
+
+Hypothesis: Field workers find the desktop drag-and-drop UI difficult to use on site, leading to low data entry.
+Expected Impact: 20% increase in Daily Active Users from field staff.
+What the feature is: A simplified mobile view where cards appear as a vertical list with large "Next Step" buttons instead of requiring drag-and-drop.
+
+Idea 3: Integration with Global Logistics APIs
+
+Hypothesis: Users have to manually update status when a shipment arrives, which is tedious.
+Expected Impact: 30% increase in card updates and data accuracy.
+What the feature is: An automated status updater that connects to FedEx/DHL APIs. When a tracking number is marked as "Delivered" by the carrier, the Shiptivitas card automatically moves to the "Complete" swimlane.
